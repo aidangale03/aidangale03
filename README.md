@@ -1,5 +1,8 @@
-<h1>Hi, I'm Aidan! <br/><a href="https://github.com/aidangale03">Aspiring Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/aidangale03/">Student at Indiana University</a>,</h1>
+<h1>Hi, I'm Aidan! <br/><a href="https://github.com/aidangale03">Aspiring Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/aidangale03/">Student at Indiana University</a></h1>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+<h2> 📃 Certifications:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
