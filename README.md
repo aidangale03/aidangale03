@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <a href="https://github.com/aidangale03/BotiumToysSecurityAudit">Security Audit</a></br>
-- <a href="https://github.com/aidangale03/NetworkTrafficAnalysis">Network Traffic Analysis</a>
+- <a href="https://github.com/aidangale03/NetworkTrafficAnalysis">Network Traffic Analysis</a></br>
+- <a href="https://github.com/aidangale03/ReadingWiresharkLog">Reading a Wireshark TCP/HTTP log</a>
 <h2> 📃 Certifications:</h2>
 - <a href="https://www.credly.com/badges/df94acb1-ab57-4299-b7a0-05559197df47/linked_in_profile">Google Data Analytics Professional Certificate</a>
 <h2> 🤳 Connect with me:</h2>
