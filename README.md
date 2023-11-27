@@ -7,7 +7,7 @@
 - <a href="https://github.com/aidangale03/ApplyingOS-HardeningTechniques">Applying OS Hardening Techniques</a></br>
 - <a href="https://github.com/aidangale03/AnalysisOfNetworkHardening/tree/main">Analysis of Network Hardening</a></br>
 - <a href="https://github.com/aidangale03/NIST-Framework-Response-to-Incident/tree/main">NIST Cybersecurity Framework to Respond to a Security Incident</a></br>
-- <a href="https://github.com/aidangale03/InstallingSoftwareLinuxDistribution">Installing Software in a Linux Distribution</a>
+- <a href="https://github.com/aidangale03/ManagingFilePermissionWithLinux">Managing File Permission With Linux</a>
 <h2> 📃 Certifications:</h2>
 - <a href="https://www.credly.com/badges/df94acb1-ab57-4299-b7a0-05559197df47/linked_in_profile">Google Data Analytics Professional Certificate</a>
 <h2> 🤳 Connect with me:</h2>
